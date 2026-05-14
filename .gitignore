@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+out/
+*.kml
+*.csv
+.DS_Store
+.idea/
+.vscode/
+.pytest_cache/
+.coverage
+
+# Data files (downloaded externally, too large for git)
+gnss_log_*
+BRDC*
+*.26o
+*.nav
+*.rnx
+out/
+*.kml
+*.csv
