@@ -156,8 +156,4 @@ the pipeline as usual — the residuals (printed when `--verbose`) will be the
 diagnostic signal. Genuine SPP residuals typically sit at a few meters; spoofed
 scenes often show clean, near-zero residuals despite an implausible trajectory.
 
----
 
-## License
-
-MIT.
